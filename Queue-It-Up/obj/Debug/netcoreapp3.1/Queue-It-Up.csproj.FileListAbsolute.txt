@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\bin\Debug\netcoreapp3.1\Queue-It-Up.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Queue-It-Up\Queue-It-Up\obj\Debug\netcoreapp3.1\Queue-It-Up.genruntimeconfig.cache
